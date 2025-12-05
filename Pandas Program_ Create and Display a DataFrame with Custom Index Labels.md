@@ -18,8 +18,8 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 
 ## 💻 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 ```
 
 ```
