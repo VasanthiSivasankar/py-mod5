@@ -14,8 +14,8 @@ To write a Python program using **NumPy** that finds the indices where elements 
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 ```
 ```
 import numpy as np
